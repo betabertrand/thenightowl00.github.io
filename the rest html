@@ -1,0 +1,73 @@
+ <div class="col-xs-12">
+              <input class="filler-text box-style" type="text" value="Hello" readonly>
+            </div>
+
+            <div class="col-xs-12">
+
+              <div class="boxbox2 center">
+
+                  <div class="row">
+                    <div class="col-xs-1">
+                      <button type="button" class="buttonsize"><i class="fa fa-chevron-down"></i>
+                      </button>
+                    </div>
+                    <div class="col-xs-11">
+                      <input class="filler-text" type="text" placeholder="What needs to be done?">
+                    </div>
+                  </div>
+                  <div class="row">
+                   
+                  </div>
+
+              </div>
+
+            </div>
+
+
+            <div class="col-xs-12">
+
+              <div class="boxbox2 center">
+
+                  <div class="row">
+                    <div class="col-xs-1">
+                      <button type="button" class="buttonsize"><i class="fa fa-circle-thin"></i>
+                      </button>
+                    </div>
+                    <div class="col-xs-11">
+                      <p class="left">Create the Website</p>
+                    </div>
+                  </div>
+                  <div class="row">
+                   
+                  </div>
+
+              </div>
+
+            </div>
+
+
+
+            <div class="col-xs-12">
+                
+                  <div class="boxbox center">
+                    <div class="col-xs-1">
+                      <p>(todos)</p>
+                    </div>
+
+                    <div class="boxbox3 center">
+                    <div class="row center">
+                      <div class="col-xs-4">
+                        <button type="radio">x</button>
+                      </div>
+                      <div class="col-xs-4">
+                        <button type="radio">y</button>
+                      </div>
+                      <div class="col-xs-4">
+                        <button type="radio">z</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+               
+            </div>

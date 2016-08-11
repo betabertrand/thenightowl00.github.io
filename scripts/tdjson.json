@@ -1,0 +1,11 @@
+$.get('http://localhost:9000/scripts/test.json', function (json) {
+
+            $.post('/sripts/tdjson.json', {name: text}, function (data) {   // try cors cross origin resource sharing
+
+              $("p").html(data);
+            });
+
+              alert(json.body);
+
+
+            })

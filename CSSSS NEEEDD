@@ -1,0 +1,357 @@
+
+.gray-background {
+      background-color: #f5f5f5;
+
+}
+
+.title {
+  
+  font-family: Roboto, sans-serif;
+  color: rgba(175, 47, 47, 0.15);
+  font-size: 75px;
+
+}
+
+.textfont {
+
+  font-family: Roboto, sans-serif;
+
+}
+
+
+
+.text {
+
+color: rgba(55,55,55, 0.4);
+}
+
+.filler-text {
+  
+  font-size: 20px;
+  
+
+}
+
+
+.center {
+ text-align: center;
+}
+
+.left {
+  text-align: left;
+}
+
+.box-style {
+  box-shadow:  0px 15px 100px -20px rgba(100,100,100, 1);
+
+
+  border-top-width: 0px;
+  border-right-width: 1px; 
+  border-left: none;
+  border-bottom-width: 3px;
+  border-color: rgba(25,25,25, 0.2);
+  
+  margin-top: -3px;
+  padding-left: -20px;
+ 
+
+}
+
+.box-style2 {
+
+  width: 360px;
+  height: 60px;
+  text-align: left;
+  border: none;
+  margin-left: -20px;
+
+
+
+
+
+}
+
+.box-style3 {
+  width: 375px;
+  height: 60px;
+  text-align: left;
+  border: none;
+  margin-left: -15px;
+
+
+
+}
+
+.boxbox {
+
+  width: 420px;
+  height: 30px;
+  outline-style: solid;
+  outline-color: #ffffff;
+  outline-width: 1px;
+
+
+  background-color: white;
+  box-shadow:  0px 15px 100px -20px rgba(100,100,100, 1);
+}
+
+.boxbox2{
+  width: 420px;
+  height: 60px;
+  outline-style: solid;
+  outline-color: silver;
+  outline-width: 1px;
+
+  
+  background-color: silver;
+  
+
+}
+
+.boxbox3 {
+  margin-left: 120px;
+  width: 150px;
+  height: 30px;
+  outline-style: solid;
+  outline-color: silver;
+  outline-width: 1px;
+}
+
+.boxbox4 {
+
+
+outline-style: solid;
+outline-width: 1px;
+
+
+}
+
+.buttonsize{
+  height: 60px;
+  width: 60px;
+  font-size: 2.5em;
+  background: none;
+  border: none;
+  color: gray;
+
+}
+
+.buttonsize2 {
+  height: 60px;
+  width: 60px;
+  font-size: 1em;
+  color: gray;
+  background: none;
+  border: none;
+
+}
+
+::-webkit-input-placeholder { /* WebKit browsers */
+    color: rgba(33,33,33, 0.15);
+    font-style: italic;
+    
+}
+
+.textarea {
+  resize: none;
+
+  width: 420px;
+  height: 60px;
+
+}
+
+.bottompagetext{
+
+
+  margin-top: 50px;  
+
+}
+
+
+.text2 {
+
+  font-size: 20px;
+  margin-left: -20px;
+  padding-left: 0px;
+  padding-top: 14px;
+}
+
+.text3 {
+  padding-top: 7px;
+  padding-left: 5px;  
+  font-size: 12px;
+}
+
+.divwidth {
+
+  width: 200px;
+
+
+
+}
+.divwidth2 { 
+
+  padding-left: 0px;
+  width: 80px;
+  height: 30px;
+  outline-width: 1px
+}
+
+.button {
+
+  background: none;
+  outline-color: red;
+  border: none;
+  height: 20px;
+  margin-top: 5px;
+
+}
+
+.no-outline {
+  outline: none;
+}
+
+.outline {
+
+  outline-style: solid;
+  outline-color: green;
+  outline-style: 1px;
+}
+
+.maindivsize {
+
+  width: 420px;
+  height: 100px;
+  padding-left: 280px;
+
+
+}
+
+.extrapaddingleft {
+
+  padding-left: 15px;
+}
+.lessmargin {
+
+  margin-left: -5px;
+}
+.extrapadding {
+
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+.boxcolor {
+
+  background-color: rgb(255,255,255);
+
+}
+
+.divdivsize { 
+
+  width: 390px;
+}
+
+.thepadding {
+
+padding-right: -50px;
+}
+
+
+
+.marginmove {
+
+  padding-right: 55px;
+}
+
+
+.shadow {
+
+box-shadow:     0px 7px 0px -2px silver,
+                0px 14px 0px -5px gray,
+                
+
+
+}
+
+
+div.hovertext {
+
+
+  padding-left: 20px;
+}
+div.hovertext:hover img{
+  opacity: 0.5;
+}
+
+div.hovertext:hover button {
+  display: block;
+}
+
+div.hovertext button {
+  position: absolute;
+  display: none;
+
+}
+
+div.hovertext button.update{
+  
+
+}
+
+div.hovertext button.delete{
+ }
+
+
+.inputback {
+
+
+  background-color: blue;
+}
+
+
+
+.colors {
+
+  background-color: #ECE9E6;
+
+}
+
+
+.outlinecolor {
+
+  outline-color: #f5f5f5;
+
+  outline-width: 2px;
+
+  /*box-shadow: -1px 2px 35px -1px;*/
+
+
+}
+
+
+.superdiv {
+
+  height: 158px;
+
+  width: 470px;
+
+  margin-left: 270px;
+
+}
+
+
+.divdiv {
+
+
+
+  width: 450px;
+}
+
+.marge {
+
+
+  width: 20px;
+}
+
+
